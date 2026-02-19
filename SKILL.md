@@ -3,8 +3,9 @@ name: manipulation-detection
 description: Identify manipulation tactics in a situation by mapping against Shakespeare's detailed patterns from Iago and the Weird Sisters.
 license: MIT
 metadata:
+  version: 1.0.4428
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
 - manipulation-detection
